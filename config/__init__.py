@@ -1,5 +1,7 @@
 from pyrogram import filters
-
+owner_id = 1221693726
+bot_token = "1432617791:AAFI8NFnmYVh9WNE8BreIgZO08zVlzhPei8"
+bot_id = 1484701846
 try:
     from config.config import *
 except ImportError:
